@@ -15,10 +15,10 @@ If an adventurer has enough items to make a complete magical ring, or necklace, 
 At the shop door the adventurer sets his variable need_assistance(i) to true and busy waits until a clerk is ready to serve him.   
 There are num_clerks but one line of adventurers. 
 A clerk should pick the next waiting adventurer in a mutual exclusion fashion (this can be done from inside of a synchronized method) and in a FCFS order.     
-Any adventurer that doesn’t have enough items to create a complete magical jewel, or that didn’t accumulate his fortune yet, goes to the mountain to battle the dragon.
-Adventurers gather at the dragon’s cave and wait (simulated by a sleep of a very long time) for the dragon to be available. 
+Any adventurer that doesnâ€™t have enough items to create a complete magical jewel, or that didnâ€™t accumulate his fortune yet, goes to the mountain to battle the dragon.
+Adventurers gather at the dragonâ€™s cave and wait (simulated by a sleep of a very long time) for the dragon to be available. 
 The dragon randomly interrupts one of the adventurers (use interrupt() and isInterrupted()). The dragon loves to play dice.
-The dragon’s game of dice is a simple one – the most points win.If the dragon loses to an adventurer, it has to give up a random item (precious stone, or ring, or chain, or earring).  If the adventurer doesn’t get the item that he needs for a complete magical jewel, he will wait again for another chance to fight the dragon.  When the adventurer has the right items to create a magical jewel, he must go back to the jewelry shop. 
+The dragonâ€™s game of dice is a simple one â€“ the most points win.If the dragon loses to an adventurer, it has to give up a random item (precious stone, or ring, or chain, or earring).  If the adventurer doesnâ€™t get the item that he needs for a complete magical jewel, he will wait again for another chance to fight the dragon.  When the adventurer has the right items to create a magical jewel, he must go back to the jewelry shop. 
 If the adventurer loses, the dragon, being very happy about his victory, will allow the adventurer to increase his priority for a very short time and play one more game. (use getPriority( ), setPriority( ) and currentThread( ) methods).  After the game the adventurer will immediately reset his priority back to the default value and will allow another adventurer to fight the dragon (use yield( )).
 Once the adventurer achieves his goal by collecting the desired number of magical jewels, he is ready to go home with his treasure.
 However each adventurer must join the previous adventurer in sequence.  
@@ -51,4 +51,4 @@ An output example is available inside the *OutputExample.txt* file
 
 ### License
 
-See the LICENSE.md file for details
+See the LICENSE file for details
