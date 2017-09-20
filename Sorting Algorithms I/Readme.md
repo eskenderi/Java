@@ -14,3 +14,5 @@ Our goal is to verify the claims we already made in the class regarding each alg
 We built these algorithms in Java, taking advantage of its object oriented features in order to make it easier for us to focus on the concept rather than the programming language technicalities.
 We build a class for each of the algorithms and we made their methods static so it’s easier for the main class to call the appropriate algorithm.
 The main class called Driver.java, is responsible for all the input/output interaction of our program. Initially it “reads” the digits from each of our testing files and then stores them onto a list of arrays. 
+
+You can find the output result inside the *Ouptut Example* folder. The first line of each output file contains the number of steps needed to sort the data by the respecting algorithm.
