@@ -1,0 +1,1133 @@
+Starting dragon...
+Starting adventurers...
+Starting clerks...
+[503] Adventurer 2: got new Magical object
+[503] Adventurer 0: got new Magical object
+[504] Adventurer 0: is on his way to the shop.
+[503] Adventurer 5: got new Magical object
+[503] Adventurer 1: got new Magical object
+[503] Adventurer 3: got new Magical object
+[504] Adventurer 1: is on his way to the shop.
+[504] Adventurer 5: is on his way to the shop.
+[504] Adventurer 4: got a table to play with dragon.
+[503] Adventurer 2: is on his way to the shop.
+[505] Adventurer 4: is waiting to fight the dragon...
+[504] Adventurer 3: is on his way to the shop.
+[505] Adventurer 4: got 0 fortunes until now.
+[505] Adventurer 4: has: 0 stones,0 rings,0 necklaces,0 earrings
+[604] Dragon:Game is finished.1
+[604] Dragon: adventurer 4 won.
+[605] Dragon: adventurer 4 won a ring
+[605] Adventurer 4: got a table to play with dragon.
+[605] Adventurer 4: is waiting to fight the dragon...
+[605] Adventurer 4: got 0 fortunes until now.
+[605] Adventurer 4: has: 0 stones,1 rings,0 necklaces,0 earrings
+[705] Dragon:Game is finished.1
+[705] Dragon: adventurer 4 won.
+[705] Dragon: adventurer 4 won a necklace
+[705] Adventurer 4: got a table to play with dragon.
+[705] Adventurer 4: is waiting to fight the dragon...
+[705] Adventurer 4: got 0 fortunes until now.
+[705] Adventurer 4: has: 0 stones,1 rings,1 necklaces,0 earrings
+[805] Dragon:Game is finished.1
+[905] Adventurer 4: got a table to play with dragon.
+[905] Adventurer 4: is waiting to fight the dragon...
+[905] Adventurer 4: got 0 fortunes until now.
+[905] Adventurer 4: has: 0 stones,1 rings,1 necklaces,0 earrings
+[1006] Dragon:Game is finished.1
+[1006] Adventurer 4: got a table to play with dragon.
+[1006] Adventurer 4: is waiting to fight the dragon...
+[1006] Adventurer 4: got 0 fortunes until now.
+[1006] Adventurer 4: has: 0 stones,1 rings,1 necklaces,0 earrings
+[1107] Dragon:Game is finished.1
+[1107] Dragon: adventurer 4 won.
+[1107] Dragon: adventurer 4 won a necklace
+[1107] Adventurer 4: got a table to play with dragon.
+[1107] Adventurer 4: is waiting to fight the dragon...
+[1107] Adventurer 4: got 0 fortunes until now.
+[1108] Adventurer 4: has: 0 stones,1 rings,2 necklaces,0 earrings
+[1139] Adventurer 2: is waiting in the shop queue.
+[1141] Adventurer 0: is waiting in the shop queue.
+[1205] Clerk 0: Served an adventurer.
+[1205] Clerk 1: Served an adventurer.
+[1208] Dragon:Game is finished.1
+[1208] Dragon: adventurer 4 won.
+[1208] Dragon: adventurer 4 won a ring
+[1208] Adventurer 4: got a table to play with dragon.
+[1208] Adventurer 4: is waiting to fight the dragon...
+[1208] Adventurer 4: got 0 fortunes until now.
+[1208] Adventurer 4: has: 0 stones,2 rings,2 necklaces,0 earrings
+[1208] Adventurer 0: got a table to play with dragon.
+[1208] Adventurer 2: got a table to play with dragon.
+[1209] Adventurer 2: is waiting to fight the dragon...
+[1209] Adventurer 2: got 2 fortunes until now.
+[1209] Adventurer 0: is waiting to fight the dragon...
+[1209] Adventurer 2: has: 0 stones,0 rings,0 necklaces,3 earrings
+[1209] Adventurer 0: got 2 fortunes until now.
+[1210] Adventurer 0: has: 0 stones,0 rings,3 necklaces,2 earrings
+[1308] Dragon:Game is finished.3
+[1308] Dragon: adventurer 4 won.
+[1308] Dragon: adventurer 4 won an earing
+[1308] Dragon: adventurer 2 won.
+[1308] Dragon: adventurer 2 won a stone
+[1308] Adventurer 2: got new Magical object
+[1308] Adventurer 2: is on his way to the shop.
+[1409] Adventurer 4: got a table to play with dragon.
+[1409] Adventurer 4: is waiting to fight the dragon...
+[1409] Adventurer 0: got a table to play with dragon.
+[1409] Adventurer 0: is waiting to fight the dragon...
+[1410] Adventurer 0: got 2 fortunes until now.
+[1409] Adventurer 4: got 0 fortunes until now.
+[1410] Adventurer 4: has: 0 stones,2 rings,2 necklaces,1 earrings
+[1410] Adventurer 0: has: 0 stones,0 rings,3 necklaces,2 earrings
+[1510] Dragon:Game is finished.2
+[1510] Dragon: adventurer 0 won.
+[1510] Dragon: adventurer 0 won a ring
+[1511] Adventurer 4: got a table to play with dragon.
+[1511] Adventurer 4: is waiting to fight the dragon...
+[1511] Adventurer 4: got 0 fortunes until now.
+[1511] Adventurer 4: has: 0 stones,2 rings,2 necklaces,1 earrings
+[1611] Dragon:Game is finished.1
+[1611] Adventurer 0: got a table to play with dragon.
+[1611] Adventurer 0: is waiting to fight the dragon...
+[1611] Adventurer 4: got a table to play with dragon.
+[1611] Adventurer 0: got 2 fortunes until now.
+[1611] Adventurer 0: has: 0 stones,1 rings,3 necklaces,2 earrings
+[1611] Adventurer 4: is waiting to fight the dragon...
+[1611] Adventurer 4: got 0 fortunes until now.
+[1611] Adventurer 4: has: 0 stones,2 rings,2 necklaces,1 earrings
+[1665] Adventurer 1: is waiting in the shop queue.
+[1690] Adventurer 5: is waiting in the shop queue.
+[1711] Dragon:Game is finished.2
+[1711] Adventurer 0: got a table to play with dragon.
+[1711] Adventurer 0: is waiting to fight the dragon...
+[1711] Adventurer 0: got 2 fortunes until now.
+[1711] Adventurer 0: has: 0 stones,1 rings,3 necklaces,2 earrings
+[1728] Adventurer 3: is waiting in the shop queue.
+[1806] Clerk 0: Served an adventurer.
+[1806] Clerk 1: Served an adventurer.
+[1811] Dragon:Game is finished.1
+[1811] Adventurer 4: got a table to play with dragon.
+[1811] Adventurer 0: got a table to play with dragon.
+[1811] Adventurer 0: is waiting to fight the dragon...
+[1811] Adventurer 0: got 2 fortunes until now.
+[1811] Adventurer 0: has: 0 stones,1 rings,3 necklaces,2 earrings
+[1811] Adventurer 1: got a table to play with dragon.
+[1811] Adventurer 4: is waiting to fight the dragon...
+[1811] Adventurer 1: is waiting to fight the dragon...
+[1812] Adventurer 1: got 3 fortunes until now.
+[1812] Adventurer 4: got 0 fortunes until now.
+[1812] Adventurer 4: has: 0 stones,2 rings,2 necklaces,1 earrings
+[1812] Adventurer 1: has: 0 stones,0 rings,1 necklaces,3 earrings
+[1911] Dragon:Game is finished.2
+[1911] Dragon: adventurer 1 won.
+[1911] Dragon: adventurer 1 won an earing
+[1912] Adventurer 0: got a table to play with dragon.
+[1912] Adventurer 4: got a table to play with dragon.
+[1912] Adventurer 5: got a table to play with dragon.
+[1912] Adventurer 4: is waiting to fight the dragon...
+[1912] Adventurer 0: is waiting to fight the dragon...
+[1912] Adventurer 4: got 0 fortunes until now.
+[1912] Adventurer 5: is waiting to fight the dragon...
+[1913] Adventurer 5: got 2 fortunes until now.
+[1913] Adventurer 5: has: 1 stones,0 rings,0 necklaces,0 earrings
+[1912] Adventurer 4: has: 0 stones,2 rings,2 necklaces,1 earrings
+[1912] Adventurer 0: got 2 fortunes until now.
+[1913] Adventurer 0: has: 0 stones,1 rings,3 necklaces,2 earrings
+[2006] Clerk 0: Served an adventurer.
+[2012] Dragon:Game is finished.3
+[2012] Dragon: adventurer 0 won.
+[2012] Dragon: adventurer 0 won an earing
+[2013] Dragon: adventurer 4 won.
+[2013] Dragon: adventurer 4 won an earing
+[2013] Adventurer 1: got a table to play with dragon.
+[2013] Adventurer 1: is waiting to fight the dragon...
+[2013] Adventurer 5: got a table to play with dragon.
+[2013] Adventurer 5: is waiting to fight the dragon...
+[2013] Adventurer 3: got a table to play with dragon.
+[2013] Adventurer 3: is waiting to fight the dragon...
+[2013] Adventurer 1: got 3 fortunes until now.
+[2013] Adventurer 3: got 1 fortunes until now.
+[2013] Adventurer 3: has: 0 stones,1 rings,0 necklaces,0 earrings
+[2013] Adventurer 5: got 2 fortunes until now.
+[2014] Adventurer 5: has: 1 stones,0 rings,0 necklaces,0 earrings
+[2013] Adventurer 1: has: 0 stones,0 rings,1 necklaces,4 earrings
+[2026] Adventurer 2: is waiting in the shop queue.
+[2113] Dragon:Game is finished.3
+[2113] Dragon: adventurer 5 won.
+[2113] Dragon: adventurer 5 won a stone
+[2113] Dragon: adventurer 3 won.
+[2113] Dragon: adventurer 3 won a necklace
+[2113] Adventurer 3: got a table to play with dragon.
+[2113] Adventurer 3: is waiting to fight the dragon...
+[2113] Adventurer 4: got a table to play with dragon.
+[2113] Adventurer 4: is waiting to fight the dragon...
+[2113] Adventurer 4: got 0 fortunes until now.
+[2113] Adventurer 4: has: 0 stones,2 rings,2 necklaces,2 earrings
+[2113] Adventurer 0: got a table to play with dragon.
+[2113] Adventurer 3: got 1 fortunes until now.
+[2113] Adventurer 0: is waiting to fight the dragon...
+[2113] Adventurer 3: has: 0 stones,1 rings,1 necklaces,0 earrings
+[2114] Adventurer 0: got 2 fortunes until now.
+[2114] Adventurer 0: has: 0 stones,1 rings,3 necklaces,3 earrings
+[2206] Clerk 0: Served an adventurer.
+[2213] Dragon:Game is finished.3
+[2213] Adventurer 5: got a table to play with dragon.
+[2213] Adventurer 1: got a table to play with dragon.
+[2213] Adventurer 1: is waiting to fight the dragon...
+[2213] Adventurer 4: got a table to play with dragon.
+[2213] Adventurer 4: is waiting to fight the dragon...
+[2213] Adventurer 1: got 3 fortunes until now.
+[2213] Adventurer 1: has: 0 stones,0 rings,1 necklaces,4 earrings
+[2213] Adventurer 5: is waiting to fight the dragon...
+[2214] Adventurer 5: got 2 fortunes until now.
+[2213] Adventurer 4: got 0 fortunes until now.
+[2214] Adventurer 4: has: 0 stones,2 rings,2 necklaces,2 earrings
+[2214] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[2314] Dragon:Game is finished.3
+[2314] Dragon: adventurer 4 won.
+[2314] Dragon: adventurer 4 won a stone
+[2314] Dragon: adventurer 1 won.
+[2314] Dragon: adventurer 1 won an earing
+[2314] Adventurer 1: got a table to play with dragon.
+[2314] Adventurer 1: is waiting to fight the dragon...
+[2314] Adventurer 1: got 3 fortunes until now.
+[2314] Adventurer 3: got a table to play with dragon.
+[2314] Adventurer 3: is waiting to fight the dragon...
+[2314] Adventurer 2: got a table to play with dragon.
+[2314] Adventurer 2: is waiting to fight the dragon...
+[2315] Adventurer 2: got 3 fortunes until now.
+[2315] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[2314] Adventurer 4: got new Magical object
+[2315] Adventurer 4: is on his way to the shop.
+[2314] Adventurer 3: got 1 fortunes until now.
+[2315] Adventurer 3: has: 0 stones,1 rings,1 necklaces,0 earrings
+[2314] Adventurer 1: has: 0 stones,0 rings,1 necklaces,5 earrings
+[2414] Dragon:Game is finished.3
+[2415] Dragon: adventurer 3 won.
+[2415] Dragon: adventurer 3 won an earing
+[2415] Adventurer 2: got a table to play with dragon.
+[2415] Adventurer 0: got a table to play with dragon.
+[2415] Adventurer 0: is waiting to fight the dragon...
+[2415] Adventurer 5: got a table to play with dragon.
+[2415] Adventurer 5: is waiting to fight the dragon...
+[2415] Adventurer 0: got 2 fortunes until now.
+[2415] Adventurer 0: has: 0 stones,1 rings,3 necklaces,3 earrings
+[2415] Adventurer 2: is waiting to fight the dragon...
+[2415] Adventurer 2: got 3 fortunes until now.
+[2415] Adventurer 5: got 2 fortunes until now.
+[2416] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[2415] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[2515] Dragon:Game is finished.3
+[2515] Adventurer 3: got a table to play with dragon.
+[2515] Adventurer 3: is waiting to fight the dragon...
+[2515] Adventurer 0: got a table to play with dragon.
+[2515] Adventurer 1: got a table to play with dragon.
+[2515] Adventurer 0: is waiting to fight the dragon...
+[2515] Adventurer 1: is waiting to fight the dragon...
+[2515] Adventurer 0: got 2 fortunes until now.
+[2515] Adventurer 1: got 3 fortunes until now.
+[2515] Adventurer 0: has: 0 stones,1 rings,3 necklaces,3 earrings
+[2515] Adventurer 1: has: 0 stones,0 rings,1 necklaces,5 earrings
+[2516] Adventurer 3: got 1 fortunes until now.
+[2516] Adventurer 3: has: 0 stones,1 rings,1 necklaces,1 earrings
+[2615] Dragon:Game is finished.3
+[2615] Adventurer 5: got a table to play with dragon.
+[2615] Adventurer 1: got a table to play with dragon.
+[2616] Adventurer 1: is waiting to fight the dragon...
+[2615] Adventurer 0: got a table to play with dragon.
+[2616] Adventurer 1: got 3 fortunes until now.
+[2616] Adventurer 1: has: 0 stones,0 rings,1 necklaces,5 earrings
+[2615] Adventurer 5: is waiting to fight the dragon...
+[2616] Adventurer 5: got 2 fortunes until now.
+[2616] Adventurer 0: is waiting to fight the dragon...
+[2616] Adventurer 0: got 2 fortunes until now.
+[2616] Adventurer 0: has: 0 stones,1 rings,3 necklaces,3 earrings
+[2616] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[2716] Dragon:Game is finished.3
+[2716] Adventurer 1: got a table to play with dragon.
+[2716] Adventurer 2: got a table to play with dragon.
+[2716] Adventurer 2: is waiting to fight the dragon...
+[2716] Adventurer 3: got a table to play with dragon.
+[2716] Adventurer 3: is waiting to fight the dragon...
+[2716] Adventurer 2: got 3 fortunes until now.
+[2716] Adventurer 1: is waiting to fight the dragon...
+[2717] Adventurer 1: got 3 fortunes until now.
+[2716] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[2716] Adventurer 3: got 1 fortunes until now.
+[2717] Adventurer 1: has: 0 stones,0 rings,1 necklaces,5 earrings
+[2717] Adventurer 3: has: 0 stones,1 rings,1 necklaces,1 earrings
+[2816] Dragon:Game is finished.3
+[2816] Adventurer 2: got a table to play with dragon.
+[2816] Adventurer 2: is waiting to fight the dragon...
+[2816] Adventurer 2: got 3 fortunes until now.
+[2816] Adventurer 5: got a table to play with dragon.
+[2816] Adventurer 0: got a table to play with dragon.
+[2816] Adventurer 5: is waiting to fight the dragon...
+[2816] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[2817] Adventurer 5: got 2 fortunes until now.
+[2817] Adventurer 0: is waiting to fight the dragon...
+[2817] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[2817] Adventurer 0: got 2 fortunes until now.
+[2817] Adventurer 0: has: 0 stones,1 rings,3 necklaces,3 earrings
+[2916] Dragon:Game is finished.3
+[2916] Dragon: adventurer 0 won.
+[2916] Dragon: adventurer 0 won an earing
+[2916] Adventurer 2: got a table to play with dragon.
+[2917] Adventurer 2: is waiting to fight the dragon...
+[2916] Adventurer 5: got a table to play with dragon.
+[2917] Adventurer 5: is waiting to fight the dragon...
+[2916] Adventurer 1: got a table to play with dragon.
+[2917] Adventurer 1: is waiting to fight the dragon...
+[2917] Adventurer 5: got 2 fortunes until now.
+[2917] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[2917] Adventurer 2: got 3 fortunes until now.
+[2917] Adventurer 1: got 3 fortunes until now.
+[2917] Adventurer 1: has: 0 stones,0 rings,1 necklaces,5 earrings
+[2917] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[3016] Dragon:Game is finished.3
+[3016] Adventurer 5: got a table to play with dragon.
+[3016] Adventurer 5: is waiting to fight the dragon...
+[3016] Adventurer 5: got 2 fortunes until now.
+[3016] Adventurer 0: got a table to play with dragon.
+[3017] Adventurer 0: is waiting to fight the dragon...
+[3017] Adventurer 0: got 2 fortunes until now.
+[3017] Adventurer 0: has: 0 stones,1 rings,3 necklaces,4 earrings
+[3016] Adventurer 3: got a table to play with dragon.
+[3017] Adventurer 3: is waiting to fight the dragon...
+[3017] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[3017] Adventurer 3: got 1 fortunes until now.
+[3017] Adventurer 3: has: 0 stones,1 rings,1 necklaces,1 earrings
+[3117] Dragon:Game is finished.3
+[3117] Dragon: adventurer 5 won.
+[3117] Dragon: adventurer 5 won a necklace
+[3117] Dragon: adventurer 0 won.
+[3117] Dragon: adventurer 0 won a ring
+[3117] Adventurer 0: got a table to play with dragon.
+[3117] Adventurer 0: is waiting to fight the dragon...
+[3117] Adventurer 0: got 2 fortunes until now.
+[3117] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[3117] Adventurer 1: got a table to play with dragon.
+[3117] Adventurer 1: is waiting to fight the dragon...
+[3117] Adventurer 1: got 3 fortunes until now.
+[3117] Adventurer 1: has: 0 stones,0 rings,1 necklaces,5 earrings
+[3117] Adventurer 5: got new Magical object
+[3117] Adventurer 2: got a table to play with dragon.
+[3117] Adventurer 2: is waiting to fight the dragon...
+[3117] Adventurer 2: got 3 fortunes until now.
+[3117] Adventurer 5: is on his way to the shop.
+[3117] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[3217] Dragon:Game is finished.3
+[3217] Dragon: adventurer 1 won.
+[3217] Dragon: adventurer 1 won a stone
+[3217] Adventurer 0: got a table to play with dragon.
+[3217] Adventurer 2: got a table to play with dragon.
+[3217] Adventurer 1: got new Magical object
+[3217] Adventurer 1: is on his way to the shop.
+[3217] Adventurer 3: got a table to play with dragon.
+[3217] Adventurer 2: is waiting to fight the dragon...
+[3217] Adventurer 0: is waiting to fight the dragon...
+[3217] Adventurer 2: got 3 fortunes until now.
+[3218] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[3217] Adventurer 3: is waiting to fight the dragon...
+[3218] Adventurer 3: got 1 fortunes until now.
+[3218] Adventurer 3: has: 0 stones,1 rings,1 necklaces,1 earrings
+[3218] Adventurer 0: got 2 fortunes until now.
+[3218] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[3277] Adventurer 4: is waiting in the shop queue.
+[3318] Dragon:Game is finished.3
+[3409] Clerk 0: Served an adventurer.
+[3418] Adventurer 2: got a table to play with dragon.
+[3418] Adventurer 2: is waiting to fight the dragon...
+[3418] Adventurer 2: got 3 fortunes until now.
+[3418] Adventurer 0: got a table to play with dragon.
+[3419] Adventurer 0: is waiting to fight the dragon...
+[3419] Adventurer 0: got 2 fortunes until now.
+[3419] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[3418] Adventurer 3: got a table to play with dragon.
+[3419] Adventurer 3: is waiting to fight the dragon...
+[3419] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[3419] Adventurer 3: got 1 fortunes until now.
+[3419] Adventurer 3: has: 0 stones,1 rings,1 necklaces,1 earrings
+[3519] Dragon:Game is finished.3
+[3519] Adventurer 4: got a table to play with dragon.
+[3519] Adventurer 0: got a table to play with dragon.
+[3519] Adventurer 2: got a table to play with dragon.
+[3519] Adventurer 4: is waiting to fight the dragon...
+[3519] Adventurer 2: is waiting to fight the dragon...
+[3519] Adventurer 0: is waiting to fight the dragon...
+[3519] Adventurer 2: got 3 fortunes until now.
+[3519] Adventurer 4: got 1 fortunes until now.
+[3519] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[3519] Adventurer 0: got 2 fortunes until now.
+[3519] Adventurer 4: has: 0 stones,1 rings,2 necklaces,2 earrings
+[3519] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[3619] Dragon:Game is finished.2
+[3619] Dragon: adventurer 4 won.
+[3619] Dragon: adventurer 4 won an earing
+[3619] Adventurer 4: got a table to play with dragon.
+[3619] Adventurer 4: is waiting to fight the dragon...
+[3619] Adventurer 4: got 1 fortunes until now.
+[3619] Adventurer 0: got a table to play with dragon.
+[3619] Adventurer 0: is waiting to fight the dragon...
+[3619] Adventurer 0: got 2 fortunes until now.
+[3619] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[3619] Adventurer 2: got a table to play with dragon.
+[3619] Adventurer 4: has: 0 stones,1 rings,2 necklaces,3 earrings
+[3619] Adventurer 2: is waiting to fight the dragon...
+[3619] Adventurer 2: got 3 fortunes until now.
+[3619] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[3719] Dragon:Game is finished.3
+[3719] Dragon: adventurer 2 won.
+[3719] Dragon: adventurer 2 won a ring
+[3719] Adventurer 3: got a table to play with dragon.
+[3719] Adventurer 3: is waiting to fight the dragon...
+[3720] Adventurer 3: got 1 fortunes until now.
+[3720] Adventurer 3: has: 0 stones,1 rings,1 necklaces,1 earrings
+[3719] Adventurer 4: got a table to play with dragon.
+[3719] Adventurer 0: got a table to play with dragon.
+[3720] Adventurer 4: is waiting to fight the dragon...
+[3720] Adventurer 0: is waiting to fight the dragon...
+[3720] Adventurer 4: got 1 fortunes until now.
+[3720] Adventurer 0: got 2 fortunes until now.
+[3720] Adventurer 4: has: 0 stones,1 rings,2 necklaces,3 earrings
+[3720] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[3820] Dragon:Game is finished.3
+[3820] Adventurer 2: got a table to play with dragon.
+[3820] Adventurer 2: is waiting to fight the dragon...
+[3820] Adventurer 4: got a table to play with dragon.
+[3820] Adventurer 4: is waiting to fight the dragon...
+[3820] Adventurer 4: got 1 fortunes until now.
+[3820] Adventurer 3: got a table to play with dragon.
+[3820] Adventurer 3: is waiting to fight the dragon...
+[3820] Adventurer 3: got 1 fortunes until now.
+[3820] Adventurer 4: has: 0 stones,1 rings,2 necklaces,3 earrings
+[3820] Adventurer 2: got 3 fortunes until now.
+[3820] Adventurer 2: has: 0 stones,1 rings,0 necklaces,2 earrings
+[3820] Adventurer 3: has: 0 stones,1 rings,1 necklaces,1 earrings
+[3920] Dragon:Game is finished.3
+[3920] Dragon: adventurer 3 won.
+[3920] Dragon: adventurer 3 won a stone
+[3920] Adventurer 4: got a table to play with dragon.
+[3920] Adventurer 4: is waiting to fight the dragon...
+[3920] Adventurer 4: got 1 fortunes until now.
+[3920] Adventurer 4: has: 0 stones,1 rings,2 necklaces,3 earrings
+[3920] Adventurer 4: got a table to play with dragon.
+[3920] Adventurer 4: is waiting to fight the dragon...
+[3920] Adventurer 4: got 1 fortunes until now.
+[3920] Adventurer 2: got a table to play with dragon.
+[3920] Adventurer 4: has: 0 stones,1 rings,2 necklaces,3 earrings
+[3920] Adventurer 2: is waiting to fight the dragon...
+[3920] Adventurer 2: got 3 fortunes until now.
+[3920] Adventurer 2: has: 0 stones,1 rings,0 necklaces,2 earrings
+[4020] Dragon:Game is finished.3
+[4020] Dragon: adventurer 4 won.
+[4020] Dragon: adventurer 4 won a stone
+[4020] Adventurer 3: got new Magical object
+[4020] Adventurer 3: is on his way to the shop.
+[4020] Adventurer 0: got a table to play with dragon.
+[4020] Adventurer 0: is waiting to fight the dragon...
+[4020] Adventurer 0: got 2 fortunes until now.
+[4021] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[4020] Adventurer 2: got a table to play with dragon.
+[4021] Adventurer 2: is waiting to fight the dragon...
+[4021] Adventurer 2: got 3 fortunes until now.
+[4020] Adventurer 4: got new Magical object
+[4021] Adventurer 4: is on his way to the shop.
+[4021] Adventurer 2: has: 0 stones,1 rings,0 necklaces,2 earrings
+[4121] Dragon:Game is finished.2
+[4121] Dragon: adventurer 2 won.
+[4121] Dragon: adventurer 2 won a stone
+[4121] Adventurer 0: got a table to play with dragon.
+[4121] Adventurer 0: is waiting to fight the dragon...
+[4121] Adventurer 2: got new Magical object
+[4121] Adventurer 0: got 2 fortunes until now.
+[4121] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[4121] Adventurer 2: is on his way to the shop.
+[4175] Adventurer 5: is waiting in the shop queue.
+[4210] Clerk 0: Served an adventurer.
+[4221] Dragon:Game is finished.1
+[4221] Adventurer 0: got a table to play with dragon.
+[4221] Adventurer 0: is waiting to fight the dragon...
+[4221] Adventurer 0: got 2 fortunes until now.
+[4221] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[4221] Adventurer 5: got a table to play with dragon.
+[4221] Adventurer 5: is waiting to fight the dragon...
+[4221] Adventurer 5: got 3 fortunes until now.
+[4221] Adventurer 5: has: 1 stones,0 rings,0 necklaces,0 earrings
+[4321] Dragon:Game is finished.2
+[4321] Dragon: adventurer 5 won.
+[4321] Dragon: adventurer 5 won a stone
+[4321] Adventurer 0: got a table to play with dragon.
+[4321] Adventurer 0: is waiting to fight the dragon...
+[4321] Adventurer 0: got 2 fortunes until now.
+[4321] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[4422] Dragon:Game is finished.1
+[4422] Adventurer 0: got a table to play with dragon.
+[4422] Adventurer 0: is waiting to fight the dragon...
+[4422] Adventurer 0: got 2 fortunes until now.
+[4422] Adventurer 5: got a table to play with dragon.
+[4422] Adventurer 5: is waiting to fight the dragon...
+[4422] Adventurer 5: got 3 fortunes until now.
+[4422] Adventurer 0: has: 0 stones,2 rings,3 necklaces,4 earrings
+[4422] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[4427] Adventurer 1: is waiting in the shop queue.
+[4522] Dragon:Game is finished.2
+[4522] Dragon: adventurer 5 won.
+[4522] Dragon: adventurer 5 won a stone
+[4522] Dragon: adventurer 0 won.
+[4522] Dragon: adventurer 0 won an earing
+[4522] Adventurer 0: got a table to play with dragon.
+[4522] Adventurer 0: is waiting to fight the dragon...
+[4522] Adventurer 0: got 2 fortunes until now.
+[4522] Adventurer 0: has: 0 stones,2 rings,3 necklaces,5 earrings
+[4610] Clerk 0: Served an adventurer.
+[4622] Dragon:Game is finished.1
+[4622] Dragon: adventurer 0 won.
+[4622] Dragon: adventurer 0 won a necklace
+[4622] Adventurer 5: got a table to play with dragon.
+[4622] Adventurer 5: is waiting to fight the dragon...
+[4622] Adventurer 5: got 3 fortunes until now.
+[4622] Adventurer 0: got a table to play with dragon.
+[4622] Adventurer 1: got a table to play with dragon.
+[4622] Adventurer 1: is waiting to fight the dragon...
+[4622] Adventurer 1: got 4 fortunes until now.
+[4622] Adventurer 0: is waiting to fight the dragon...
+[4622] Adventurer 5: has: 3 stones,0 rings,0 necklaces,0 earrings
+[4623] Adventurer 0: got 2 fortunes until now.
+[4623] Adventurer 1: has: 0 stones,0 rings,0 necklaces,5 earrings
+[4623] Adventurer 0: has: 0 stones,2 rings,4 necklaces,5 earrings
+[4723] Dragon:Game is finished.3
+[4723] Dragon: adventurer 5 won.
+[4723] Dragon: adventurer 5 won a ring
+[4723] Dragon: adventurer 1 won.
+[4723] Dragon: adventurer 1 won an earing
+[4723] Adventurer 5: got new Magical object
+[4723] Adventurer 5: is on his way to the shop.
+[4810] Adventurer 4: is waiting in the shop queue.
+[4811] Clerk 0: Served an adventurer.
+[4823] Adventurer 1: got a table to play with dragon.
+[4823] Adventurer 1: is waiting to fight the dragon...
+[4823] Adventurer 1: got 4 fortunes until now.
+[4823] Adventurer 1: has: 0 stones,0 rings,0 necklaces,6 earrings
+[4823] Adventurer 4: got a table to play with dragon.
+[4823] Adventurer 0: got a table to play with dragon.
+[4824] Adventurer 0: is waiting to fight the dragon...
+[4823] Adventurer 4: is waiting to fight the dragon...
+[4824] Adventurer 0: got 2 fortunes until now.
+[4824] Adventurer 0: has: 0 stones,2 rings,4 necklaces,5 earrings
+[4824] Adventurer 4: got 2 fortunes until now.
+[4824] Adventurer 4: has: 0 stones,0 rings,2 necklaces,3 earrings
+[4924] Dragon:Game is finished.3
+[4924] Dragon: adventurer 4 won.
+[4924] Dragon: adventurer 4 won a necklace
+[4935] Adventurer 3: is waiting in the shop queue.
+[5011] Clerk 0: Served an adventurer.
+[5011] Clerk 1: Served an adventurer.
+[5024] Adventurer 1: got a table to play with dragon.
+[5024] Adventurer 1: is waiting to fight the dragon...
+[5024] Adventurer 1: got 4 fortunes until now.
+[5024] Adventurer 1: has: 0 stones,0 rings,0 necklaces,6 earrings
+[5024] Adventurer 4: got a table to play with dragon.
+[5024] Adventurer 4: is waiting to fight the dragon...
+[5024] Adventurer 4: got 2 fortunes until now.
+[5024] Adventurer 4: has: 0 stones,0 rings,3 necklaces,3 earrings
+[5024] Adventurer 0: got a table to play with dragon.
+[5024] Adventurer 0: is waiting to fight the dragon...
+[5025] Adventurer 0: got 2 fortunes until now.
+[5025] Adventurer 0: has: 0 stones,2 rings,4 necklaces,5 earrings
+[5125] Dragon:Game is finished.3
+[5125] Adventurer 1: got a table to play with dragon.
+[5125] Adventurer 1: is waiting to fight the dragon...
+[5125] Adventurer 3: got a table to play with dragon.
+[5125] Adventurer 4: got a table to play with dragon.
+[5125] Adventurer 4: is waiting to fight the dragon...
+[5125] Adventurer 4: got 2 fortunes until now.
+[5125] Adventurer 4: has: 0 stones,0 rings,3 necklaces,3 earrings
+[5125] Adventurer 1: got 4 fortunes until now.
+[5125] Adventurer 1: has: 0 stones,0 rings,0 necklaces,6 earrings
+[5125] Adventurer 3: is waiting to fight the dragon...
+[5125] Adventurer 3: got 2 fortunes until now.
+[5125] Adventurer 3: has: 0 stones,0 rings,1 necklaces,1 earrings
+[5225] Dragon:Game is finished.3
+[5225] Dragon: adventurer 1 won.
+[5225] Dragon: adventurer 1 won an earing
+[5225] Dragon: adventurer 3 won.
+[5225] Dragon: adventurer 3 won a stone
+[5226] Adventurer 4: got a table to play with dragon.
+[5226] Adventurer 4: is waiting to fight the dragon...
+[5226] Adventurer 4: got 2 fortunes until now.
+[5226] Adventurer 3: got new Magical object
+[5226] Adventurer 3: is on his way to the shop.
+[5226] Adventurer 0: got a table to play with dragon.
+[5226] Adventurer 0: is waiting to fight the dragon...
+[5226] Adventurer 0: got 2 fortunes until now.
+[5226] Adventurer 0: has: 0 stones,2 rings,4 necklaces,5 earrings
+[5226] Adventurer 4: has: 0 stones,0 rings,3 necklaces,3 earrings
+[5226] Adventurer 1: got a table to play with dragon.
+[5226] Adventurer 1: is waiting to fight the dragon...
+[5226] Adventurer 1: got 4 fortunes until now.
+[5226] Adventurer 1: has: 0 stones,0 rings,0 necklaces,7 earrings
+[5326] Dragon:Game is finished.3
+[5326] Dragon: adventurer 0 won.
+[5326] Dragon: adventurer 0 won a necklace
+[5371] Adventurer 2: is waiting in the shop queue.
+[5426] Adventurer 0: got a table to play with dragon.
+[5426] Adventurer 0: is waiting to fight the dragon...
+[5426] Adventurer 0: got 2 fortunes until now.
+[5426] Adventurer 1: got a table to play with dragon.
+[5426] Adventurer 1: is waiting to fight the dragon...
+[5426] Adventurer 4: got a table to play with dragon.
+[5426] Adventurer 4: is waiting to fight the dragon...
+[5427] Adventurer 4: got 2 fortunes until now.
+[5427] Adventurer 4: has: 0 stones,0 rings,3 necklaces,3 earrings
+[5426] Adventurer 1: got 4 fortunes until now.
+[5426] Adventurer 0: has: 0 stones,2 rings,5 necklaces,5 earrings
+[5427] Adventurer 1: has: 0 stones,0 rings,0 necklaces,7 earrings
+[5526] Dragon:Game is finished.3
+[5526] Dragon: adventurer 0 won.
+[5526] Dragon: adventurer 0 won an earing
+[5526] Dragon: adventurer 4 won.
+[5526] Dragon: adventurer 4 won a necklace
+[5526] Adventurer 4: got a table to play with dragon.
+[5527] Adventurer 4: is waiting to fight the dragon...
+[5527] Adventurer 4: got 2 fortunes until now.
+[5527] Adventurer 4: has: 0 stones,0 rings,4 necklaces,3 earrings
+[5526] Adventurer 0: got a table to play with dragon.
+[5527] Adventurer 0: is waiting to fight the dragon...
+[5526] Adventurer 2: got a table to play with dragon.
+[5527] Adventurer 2: is waiting to fight the dragon...
+[5527] Adventurer 2: got 4 fortunes until now.
+[5527] Adventurer 2: has: 0 stones,0 rings,0 necklaces,2 earrings
+[5527] Adventurer 0: got 2 fortunes until now.
+[5527] Adventurer 0: has: 0 stones,2 rings,5 necklaces,6 earrings
+[5627] Dragon:Game is finished.3
+[5627] Dragon: adventurer 2 won.
+[5627] Dragon: adventurer 2 won a ring
+[5627] Dragon: adventurer 2 won.
+[5627] Dragon: adventurer 2 won an earing
+[5627] Adventurer 4: got a table to play with dragon.
+[5627] Adventurer 2: got a table to play with dragon.
+[5627] Adventurer 2: is waiting to fight the dragon...
+[5627] Adventurer 2: got 4 fortunes until now.
+[5627] Adventurer 2: has: 0 stones,1 rings,0 necklaces,3 earrings
+[5627] Adventurer 1: got a table to play with dragon.
+[5627] Adventurer 1: is waiting to fight the dragon...
+[5627] Adventurer 1: got 4 fortunes until now.
+[5627] Adventurer 1: has: 0 stones,0 rings,0 necklaces,7 earrings
+[5627] Adventurer 4: is waiting to fight the dragon...
+[5627] Adventurer 4: got 2 fortunes until now.
+[5627] Adventurer 4: has: 0 stones,0 rings,4 necklaces,3 earrings
+[5728] Dragon:Game is finished.3
+[5728] Dragon: adventurer 2 won.
+[5728] Dragon: adventurer 2 won a stone
+[5728] Adventurer 2: got new Magical object
+[5728] Adventurer 2: is on his way to the shop.
+[5728] Adventurer 0: got a table to play with dragon.
+[5728] Adventurer 0: is waiting to fight the dragon...
+[5728] Adventurer 0: got 2 fortunes until now.
+[5729] Adventurer 0: has: 0 stones,2 rings,5 necklaces,6 earrings
+[5728] Adventurer 4: got a table to play with dragon.
+[5729] Adventurer 4: is waiting to fight the dragon...
+[5729] Adventurer 4: got 2 fortunes until now.
+[5729] Adventurer 4: has: 0 stones,0 rings,4 necklaces,3 earrings
+[5728] Adventurer 1: got a table to play with dragon.
+[5729] Adventurer 1: is waiting to fight the dragon...
+[5729] Adventurer 1: got 4 fortunes until now.
+[5729] Adventurer 1: has: 0 stones,0 rings,0 necklaces,7 earrings
+[5828] Dragon:Game is finished.3
+[5928] Adventurer 0: got a table to play with dragon.
+[5928] Adventurer 0: is waiting to fight the dragon...
+[5928] Adventurer 4: got a table to play with dragon.
+[5928] Adventurer 4: is waiting to fight the dragon...
+[5928] Adventurer 4: got 2 fortunes until now.
+[5928] Adventurer 1: got a table to play with dragon.
+[5928] Adventurer 1: is waiting to fight the dragon...
+[5928] Adventurer 0: got 2 fortunes until now.
+[5929] Adventurer 0: has: 0 stones,2 rings,5 necklaces,6 earrings
+[5929] Adventurer 1: got 4 fortunes until now.
+[5928] Adventurer 4: has: 0 stones,0 rings,4 necklaces,3 earrings
+[5929] Adventurer 1: has: 0 stones,0 rings,0 necklaces,7 earrings
+[5947] Adventurer 5: is waiting in the shop queue.
+[6012] Clerk 0: Served an adventurer.
+[6012] Clerk 1: Served an adventurer.
+[6029] Dragon:Game is finished.3
+[6029] Dragon: adventurer 0 won.
+[6029] Dragon: adventurer 0 won a necklace
+[6029] Dragon: adventurer 4 won.
+[6029] Dragon: adventurer 4 won a necklace
+[6029] Dragon: adventurer 1 won.
+[6029] Dragon: adventurer 1 won a stone
+[6029] Adventurer 5: got a table to play with dragon.
+[6029] Adventurer 1: got new Magical object
+[6029] Adventurer 1: is on his way to the shop.
+[6029] Adventurer 4: got a table to play with dragon.
+[6029] Adventurer 4: is waiting to fight the dragon...
+[6029] Adventurer 4: got 2 fortunes until now.
+[6029] Adventurer 4: has: 0 stones,0 rings,5 necklaces,3 earrings
+[6029] Adventurer 0: got a table to play with dragon.
+[6029] Adventurer 0: is waiting to fight the dragon...
+[6029] Adventurer 0: got 2 fortunes until now.
+[6029] Adventurer 0: has: 0 stones,2 rings,6 necklaces,6 earrings
+[6029] Adventurer 5: is waiting to fight the dragon...
+[6029] Adventurer 5: got 4 fortunes until now.
+[6029] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[6129] Dragon:Game is finished.3
+[6129] Dragon: adventurer 4 won.
+[6129] Dragon: adventurer 4 won a stone
+[6129] Adventurer 4: got new Magical object
+[6129] Adventurer 4: is on his way to the shop.
+[6229] Adventurer 0: got a table to play with dragon.
+[6229] Adventurer 5: got a table to play with dragon.
+[6229] Adventurer 5: is waiting to fight the dragon...
+[6229] Adventurer 5: got 4 fortunes until now.
+[6229] Adventurer 5: has: 2 stones,0 rings,0 necklaces,0 earrings
+[6229] Adventurer 0: is waiting to fight the dragon...
+[6229] Adventurer 0: got 2 fortunes until now.
+[6229] Adventurer 0: has: 0 stones,2 rings,6 necklaces,6 earrings
+[6300] Adventurer 3: is waiting in the shop queue.
+[6300] Adventurer 3: got a table to play with dragon.
+[6300] Adventurer 3: is waiting to fight the dragon...
+[6300] Adventurer 3: got 3 fortunes until now.
+[6300] Adventurer 3: has: 0 stones,0 rings,0 necklaces,1 earrings
+[6330] Dragon:Game is finished.3
+[6330] Dragon: adventurer 5 won.
+[6330] Dragon: adventurer 5 won a stone
+[6330] Dragon: adventurer 3 won.
+[6330] Dragon: adventurer 3 won a stone
+[6330] Adventurer 3: got new Magical object
+[6330] Adventurer 3: is on his way to the shop.
+[6351] Adventurer 2: is waiting in the shop queue.
+[6413] Clerk 0: Served an adventurer.
+[6413] Clerk 1: Served an adventurer.
+[6413] Adventurer 2: collected all the fortune required...
+[6413] Adventurer 2: is ready to go home.
+[6430] Adventurer 5: got a table to play with dragon.
+[6430] Adventurer 5: is waiting to fight the dragon...
+[6430] Adventurer 5: got 4 fortunes until now.
+[6430] Adventurer 5: has: 3 stones,0 rings,0 necklaces,0 earrings
+[6430] Adventurer 0: got a table to play with dragon.
+[6430] Adventurer 0: is waiting to fight the dragon...
+[6430] Adventurer 0: got 2 fortunes until now.
+[6430] Adventurer 0: has: 0 stones,2 rings,6 necklaces,6 earrings
+[6530] Dragon:Game is finished.2
+[6530] Dragon: adventurer 5 won.
+[6530] Dragon: adventurer 5 won a ring
+[6530] Dragon: adventurer 0 won.
+[6530] Dragon: adventurer 0 won an earing
+[6530] Adventurer 5: got new Magical object
+[6530] Adventurer 5: is on his way to the shop.
+[6530] Adventurer 0: got a table to play with dragon.
+[6530] Adventurer 0: is waiting to fight the dragon...
+[6531] Adventurer 0: got 2 fortunes until now.
+[6531] Adventurer 0: has: 0 stones,2 rings,6 necklaces,7 earrings
+[6540] Adventurer 1: is waiting in the shop queue.
+[6540] Adventurer 1: collected all the fortune required...
+[6540] Adventurer 1: is ready to go home.
+[6631] Dragon:Game is finished.1
+[6731] Adventurer 0: got a table to play with dragon.
+[6731] Adventurer 0: is waiting to fight the dragon...
+[6731] Adventurer 0: got 2 fortunes until now.
+[6731] Adventurer 0: has: 0 stones,2 rings,6 necklaces,7 earrings
+[6831] Dragon:Game is finished.1
+[6831] Adventurer 0: got a table to play with dragon.
+[6831] Adventurer 0: is waiting to fight the dragon...
+[6831] Adventurer 0: got 2 fortunes until now.
+[6831] Adventurer 0: has: 0 stones,2 rings,6 necklaces,7 earrings
+[6931] Dragon:Game is finished.1
+[6931] Dragon: adventurer 0 won.
+[6931] Dragon: adventurer 0 won a ring
+[6931] Adventurer 0: got a table to play with dragon.
+[6931] Adventurer 0: is waiting to fight the dragon...
+[6931] Adventurer 0: got 2 fortunes until now.
+[6931] Adventurer 0: has: 0 stones,3 rings,6 necklaces,7 earrings
+[7032] Dragon:Game is finished.1
+[7067] Adventurer 3: is waiting in the shop queue.
+[7132] Adventurer 0: got a table to play with dragon.
+[7132] Adventurer 0: is waiting to fight the dragon...
+[7132] Adventurer 0: got 2 fortunes until now.
+[7132] Adventurer 0: has: 0 stones,3 rings,6 necklaces,7 earrings
+[7213] Clerk 0: Served an adventurer.
+[7213] Clerk 1: Served an adventurer.
+[7213] Adventurer 3: got a table to play with dragon.
+[7213] Adventurer 3: is waiting to fight the dragon...
+[7213] Adventurer 3: got 4 fortunes until now.
+[7213] Adventurer 3: has: 0 stones,0 rings,0 necklaces,0 earrings
+[7232] Dragon:Game is finished.2
+[7232] Adventurer 0: got a table to play with dragon.
+[7232] Adventurer 0: is waiting to fight the dragon...
+[7232] Adventurer 0: got 2 fortunes until now.
+[7232] Adventurer 0: has: 0 stones,3 rings,6 necklaces,7 earrings
+[7333] Dragon:Game is finished.1
+[7333] Dragon: adventurer 0 won.
+[7333] Dragon: adventurer 0 won an earing
+[7333] Adventurer 3: got a table to play with dragon.
+[7333] Adventurer 3: is waiting to fight the dragon...
+[7333] Adventurer 3: got 4 fortunes until now.
+[7333] Adventurer 3: has: 0 stones,0 rings,0 necklaces,0 earrings
+[7333] Adventurer 0: got a table to play with dragon.
+[7333] Adventurer 0: is waiting to fight the dragon...
+[7333] Adventurer 0: got 2 fortunes until now.
+[7333] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[7414] Adventurer 5: is waiting in the shop queue.
+[7414] Adventurer 5: collected all the fortune required...
+[7414] Adventurer 5: is ready to go home.
+[7433] Dragon:Game is finished.2
+[7433] Dragon: adventurer 3 won.
+[7433] Dragon: adventurer 3 won a stone
+[7433] Adventurer 3: got a table to play with dragon.
+[7433] Adventurer 3: is waiting to fight the dragon...
+[7433] Adventurer 3: got 4 fortunes until now.
+[7433] Adventurer 3: has: 1 stones,0 rings,0 necklaces,0 earrings
+[7454] Adventurer 4: is waiting in the shop queue.
+[7534] Dragon:Game is finished.1
+[7534] Adventurer 3: got a table to play with dragon.
+[7534] Adventurer 3: is waiting to fight the dragon...
+[7534] Adventurer 3: got 4 fortunes until now.
+[7534] Adventurer 3: has: 1 stones,0 rings,0 necklaces,0 earrings
+[7534] Adventurer 0: got a table to play with dragon.
+[7534] Adventurer 0: is waiting to fight the dragon...
+[7534] Adventurer 0: got 2 fortunes until now.
+[7534] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[7614] Clerk 0: Served an adventurer.
+[7614] Adventurer 4: got a table to play with dragon.
+[7614] Adventurer 4: is waiting to fight the dragon...
+[7614] Adventurer 4: got 3 fortunes until now.
+[7614] Adventurer 4: has: 0 stones,0 rings,4 necklaces,3 earrings
+[7614] Clerk 1: Served an adventurer.
+[7634] Dragon:Game is finished.3
+[7634] Dragon: adventurer 3 won.
+[7634] Dragon: adventurer 3 won a ring
+[7634] Adventurer 3: got new Magical object
+[7634] Adventurer 3: is on his way to the shop.
+[7734] Adventurer 0: got a table to play with dragon.
+[7734] Adventurer 0: is waiting to fight the dragon...
+[7734] Adventurer 4: got a table to play with dragon.
+[7734] Adventurer 4: is waiting to fight the dragon...
+[7734] Adventurer 4: got 3 fortunes until now.
+[7734] Adventurer 4: has: 0 stones,0 rings,4 necklaces,3 earrings
+[7734] Adventurer 0: got 2 fortunes until now.
+[7734] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[7835] Dragon:Game is finished.2
+[7835] Adventurer 4: got a table to play with dragon.
+[7835] Adventurer 4: is waiting to fight the dragon...
+[7835] Adventurer 4: got 3 fortunes until now.
+[7835] Adventurer 4: has: 0 stones,0 rings,4 necklaces,3 earrings
+[7935] Dragon:Game is finished.1
+[7935] Dragon: adventurer 4 won.
+[7935] Dragon: adventurer 4 won a ring
+[7935] Adventurer 4: got a table to play with dragon.
+[7935] Adventurer 4: is waiting to fight the dragon...
+[7935] Adventurer 0: got a table to play with dragon.
+[7935] Adventurer 0: is waiting to fight the dragon...
+[7935] Adventurer 0: got 2 fortunes until now.
+[7935] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[7935] Adventurer 4: got 3 fortunes until now.
+[7935] Adventurer 4: has: 0 stones,1 rings,4 necklaces,3 earrings
+[8036] Dragon:Game is finished.2
+[8036] Dragon: adventurer 4 won.
+[8036] Dragon: adventurer 4 won a ring
+[8036] Adventurer 0: got a table to play with dragon.
+[8036] Adventurer 0: is waiting to fight the dragon...
+[8036] Adventurer 0: got 2 fortunes until now.
+[8036] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[8136] Dragon:Game is finished.1
+[8136] Adventurer 4: got a table to play with dragon.
+[8136] Adventurer 4: is waiting to fight the dragon...
+[8136] Adventurer 4: got 3 fortunes until now.
+[8136] Adventurer 4: has: 0 stones,2 rings,4 necklaces,3 earrings
+[8136] Adventurer 0: got a table to play with dragon.
+[8136] Adventurer 0: is waiting to fight the dragon...
+[8136] Adventurer 0: got 2 fortunes until now.
+[8136] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[8236] Dragon:Game is finished.2
+[8236] Adventurer 4: got a table to play with dragon.
+[8236] Adventurer 4: is waiting to fight the dragon...
+[8236] Adventurer 4: got 3 fortunes until now.
+[8236] Adventurer 4: has: 0 stones,2 rings,4 necklaces,3 earrings
+[8336] Dragon:Game is finished.1
+[8336] Dragon: adventurer 4 won.
+[8336] Dragon: adventurer 4 won a stone
+[8336] Adventurer 4: got new Magical object
+[8336] Adventurer 4: is on his way to the shop.
+[8336] Adventurer 0: got a table to play with dragon.
+[8336] Adventurer 0: is waiting to fight the dragon...
+[8336] Adventurer 0: got 2 fortunes until now.
+[8336] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[8437] Dragon:Game is finished.1
+[8437] Adventurer 0: got a table to play with dragon.
+[8437] Adventurer 0: is waiting to fight the dragon...
+[8437] Adventurer 0: got 2 fortunes until now.
+[8437] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[8537] Dragon:Game is finished.1
+[8537] Dragon: adventurer 0 won.
+[8537] Dragon: adventurer 0 won a ring
+[8537] Adventurer 0: got a table to play with dragon.
+[8537] Adventurer 0: is waiting to fight the dragon...
+[8537] Adventurer 0: got 2 fortunes until now.
+[8537] Adventurer 0: has: 0 stones,4 rings,6 necklaces,8 earrings
+[8637] Dragon:Game is finished.1
+[8637] Dragon: adventurer 0 won.
+[8637] Dragon: adventurer 0 won a stone
+[8637] Adventurer 0: got new Magical object
+[8637] Adventurer 0: is on his way to the shop.
+[9019] Adventurer 4: is waiting in the shop queue.
+[9039] Adventurer 4: got a table to play with dragon.
+[9039] Adventurer 4: is waiting to fight the dragon...
+[9039] Adventurer 4: got 4 fortunes until now.
+[9039] Adventurer 4: has: 0 stones,1 rings,4 necklaces,3 earrings
+[9074] Adventurer 3: is waiting in the shop queue.
+[9139] Dragon:Game is finished.1
+[9139] Adventurer 4: got a table to play with dragon.
+[9139] Adventurer 4: is waiting to fight the dragon...
+[9139] Adventurer 4: got 4 fortunes until now.
+[9139] Adventurer 4: has: 0 stones,1 rings,4 necklaces,3 earrings
+[9215] Clerk 0: Served an adventurer.
+[9215] Adventurer 3: collected all the fortune required...
+[9215] Adventurer 3: is ready to go home.
+[9215] Clerk 1: Served an adventurer.
+[9240] Dragon:Game is finished.1
+[9240] Adventurer 4: got a table to play with dragon.
+[9240] Adventurer 4: is waiting to fight the dragon...
+[9240] Adventurer 4: got 4 fortunes until now.
+[9240] Adventurer 4: has: 0 stones,1 rings,4 necklaces,3 earrings
+[9340] Dragon:Game is finished.1
+[9441] Adventurer 4: got a table to play with dragon.
+[9441] Adventurer 4: is waiting to fight the dragon...
+[9441] Adventurer 4: got 4 fortunes until now.
+[9441] Adventurer 4: has: 0 stones,1 rings,4 necklaces,3 earrings
+[9541] Dragon:Game is finished.1
+[9541] Dragon: adventurer 4 won.
+[9541] Dragon: adventurer 4 won an earing
+[9541] Adventurer 4: got a table to play with dragon.
+[9541] Adventurer 4: is waiting to fight the dragon...
+[9541] Adventurer 4: got 4 fortunes until now.
+[9541] Adventurer 4: has: 0 stones,1 rings,4 necklaces,4 earrings
+[9641] Dragon:Game is finished.1
+[9641] Adventurer 4: got a table to play with dragon.
+[9641] Adventurer 4: is waiting to fight the dragon...
+[9641] Adventurer 4: got 4 fortunes until now.
+[9641] Adventurer 4: has: 0 stones,1 rings,4 necklaces,4 earrings
+[9741] Dragon:Game is finished.1
+[9842] Adventurer 4: got a table to play with dragon.
+[9842] Adventurer 4: is waiting to fight the dragon...
+[9842] Adventurer 4: got 4 fortunes until now.
+[9842] Adventurer 4: has: 0 stones,1 rings,4 necklaces,4 earrings
+[9942] Dragon:Game is finished.1
+[9942] Adventurer 4: got a table to play with dragon.
+[9942] Adventurer 4: is waiting to fight the dragon...
+[9942] Adventurer 4: got 4 fortunes until now.
+[9942] Adventurer 4: has: 0 stones,1 rings,4 necklaces,4 earrings
+[10002] Adventurer 0: is waiting in the shop queue.
+[10002] Adventurer 0: got a table to play with dragon.
+[10002] Adventurer 0: is waiting to fight the dragon...
+[10002] Adventurer 0: got 3 fortunes until now.
+[10002] Adventurer 0: has: 0 stones,3 rings,6 necklaces,8 earrings
+[10042] Dragon:Game is finished.2
+[10042] Dragon: adventurer 4 won.
+[10042] Dragon: adventurer 4 won a ring
+[10042] Dragon: adventurer 0 won.
+[10042] Dragon: adventurer 0 won a necklace
+[10142] Adventurer 4: got a table to play with dragon.
+[10142] Adventurer 4: is waiting to fight the dragon...
+[10142] Adventurer 0: got a table to play with dragon.
+[10142] Adventurer 0: is waiting to fight the dragon...
+[10142] Adventurer 0: got 3 fortunes until now.
+[10142] Adventurer 4: got 4 fortunes until now.
+[10142] Adventurer 4: has: 0 stones,2 rings,4 necklaces,4 earrings
+[10142] Adventurer 0: has: 0 stones,3 rings,7 necklaces,8 earrings
+[10242] Dragon:Game is finished.2
+[10242] Dragon: adventurer 4 won.
+[10242] Dragon: adventurer 4 won a necklace
+[10242] Dragon: adventurer 0 won.
+[10242] Dragon: adventurer 0 won an earing
+[10242] Adventurer 4: got a table to play with dragon.
+[10242] Adventurer 4: is waiting to fight the dragon...
+[10242] Adventurer 4: got 4 fortunes until now.
+[10242] Adventurer 4: has: 0 stones,2 rings,5 necklaces,4 earrings
+[10342] Dragon:Game is finished.1
+[10342] Adventurer 4: got a table to play with dragon.
+[10342] Adventurer 4: is waiting to fight the dragon...
+[10342] Adventurer 0: got a table to play with dragon.
+[10342] Adventurer 0: is waiting to fight the dragon...
+[10342] Adventurer 0: got 3 fortunes until now.
+[10342] Adventurer 0: has: 0 stones,3 rings,7 necklaces,9 earrings
+[10342] Adventurer 4: got 4 fortunes until now.
+[10343] Adventurer 4: has: 0 stones,2 rings,5 necklaces,4 earrings
+[10443] Dragon:Game is finished.2
+[10443] Adventurer 0: got a table to play with dragon.
+[10443] Adventurer 0: is waiting to fight the dragon...
+[10443] Adventurer 0: got 3 fortunes until now.
+[10443] Adventurer 0: has: 0 stones,3 rings,7 necklaces,9 earrings
+[10543] Dragon:Game is finished.1
+[10543] Adventurer 0: got a table to play with dragon.
+[10543] Adventurer 0: is waiting to fight the dragon...
+[10543] Adventurer 0: got 3 fortunes until now.
+[10543] Adventurer 0: has: 0 stones,3 rings,7 necklaces,9 earrings
+[10543] Adventurer 4: got a table to play with dragon.
+[10543] Adventurer 4: is waiting to fight the dragon...
+[10543] Adventurer 4: got 4 fortunes until now.
+[10543] Adventurer 4: has: 0 stones,2 rings,5 necklaces,4 earrings
+[10643] Dragon:Game is finished.2
+[10643] Adventurer 0: got a table to play with dragon.
+[10643] Adventurer 0: is waiting to fight the dragon...
+[10643] Adventurer 0: got 3 fortunes until now.
+[10643] Adventurer 0: has: 0 stones,3 rings,7 necklaces,9 earrings
+[10743] Dragon:Game is finished.1
+[10743] Adventurer 4: got a table to play with dragon.
+[10743] Adventurer 4: is waiting to fight the dragon...
+[10743] Adventurer 4: got 4 fortunes until now.
+[10743] Adventurer 4: has: 0 stones,2 rings,5 necklaces,4 earrings
+[10743] Adventurer 0: got a table to play with dragon.
+[10743] Adventurer 0: is waiting to fight the dragon...
+[10743] Adventurer 0: got 3 fortunes until now.
+[10743] Adventurer 0: has: 0 stones,3 rings,7 necklaces,9 earrings
+[10843] Dragon:Game is finished.2
+[10843] Dragon: adventurer 4 won.
+[10843] Dragon: adventurer 4 won a ring
+[10843] Dragon: adventurer 0 won.
+[10843] Dragon: adventurer 0 won an earing
+[10843] Adventurer 4: got a table to play with dragon.
+[10843] Adventurer 4: is waiting to fight the dragon...
+[10843] Adventurer 4: got 4 fortunes until now.
+[10843] Adventurer 4: has: 0 stones,3 rings,5 necklaces,4 earrings
+[10943] Dragon:Game is finished.1
+[10943] Dragon: adventurer 4 won.
+[10943] Dragon: adventurer 4 won an earing
+[10943] Adventurer 0: got a table to play with dragon.
+[10943] Adventurer 0: is waiting to fight the dragon...
+[10943] Adventurer 0: got 3 fortunes until now.
+[10943] Adventurer 4: got a table to play with dragon.
+[10943] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[10943] Adventurer 4: is waiting to fight the dragon...
+[10943] Adventurer 4: got 4 fortunes until now.
+[10943] Adventurer 4: has: 0 stones,3 rings,5 necklaces,5 earrings
+[11043] Dragon:Game is finished.2
+[11043] Adventurer 0: got a table to play with dragon.
+[11043] Adventurer 0: is waiting to fight the dragon...
+[11043] Adventurer 0: got 3 fortunes until now.
+[11043] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[11144] Dragon:Game is finished.1
+[11144] Adventurer 4: got a table to play with dragon.
+[11144] Adventurer 0: got a table to play with dragon.
+[11144] Adventurer 0: is waiting to fight the dragon...
+[11144] Adventurer 0: got 3 fortunes until now.
+[11144] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[11144] Adventurer 4: is waiting to fight the dragon...
+[11144] Adventurer 4: got 4 fortunes until now.
+[11144] Adventurer 4: has: 0 stones,3 rings,5 necklaces,5 earrings
+[11244] Dragon:Game is finished.2
+[11244] Adventurer 0: got a table to play with dragon.
+[11244] Adventurer 0: is waiting to fight the dragon...
+[11244] Adventurer 0: got 3 fortunes until now.
+[11244] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[11344] Dragon:Game is finished.1
+[11344] Adventurer 4: got a table to play with dragon.
+[11344] Adventurer 4: is waiting to fight the dragon...
+[11344] Adventurer 4: got 4 fortunes until now.
+[11344] Adventurer 4: has: 0 stones,3 rings,5 necklaces,5 earrings
+[11344] Adventurer 0: got a table to play with dragon.
+[11344] Adventurer 0: is waiting to fight the dragon...
+[11344] Adventurer 0: got 3 fortunes until now.
+[11344] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[11444] Dragon:Game is finished.2
+[11444] Adventurer 4: got a table to play with dragon.
+[11444] Adventurer 4: is waiting to fight the dragon...
+[11444] Adventurer 4: got 4 fortunes until now.
+[11444] Adventurer 4: has: 0 stones,3 rings,5 necklaces,5 earrings
+[11545] Dragon:Game is finished.1
+[11545] Dragon: adventurer 4 won.
+[11545] Dragon: adventurer 4 won a necklace
+[11545] Adventurer 0: got a table to play with dragon.
+[11545] Adventurer 0: is waiting to fight the dragon...
+[11545] Adventurer 4: got a table to play with dragon.
+[11545] Adventurer 4: is waiting to fight the dragon...
+[11545] Adventurer 0: got 3 fortunes until now.
+[11545] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[11545] Adventurer 4: got 4 fortunes until now.
+[11545] Adventurer 4: has: 0 stones,3 rings,6 necklaces,5 earrings
+[11645] Dragon:Game is finished.2
+[11645] Dragon: adventurer 4 won.
+[11645] Dragon: adventurer 4 won a stone
+[11645] Adventurer 0: got a table to play with dragon.
+[11645] Adventurer 0: is waiting to fight the dragon...
+[11645] Adventurer 0: got 3 fortunes until now.
+[11645] Adventurer 4: got new Magical object
+[11645] Adventurer 4: is on his way to the shop.
+[11645] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[11745] Dragon:Game is finished.1
+[11846] Adventurer 0: got a table to play with dragon.
+[11846] Adventurer 0: is waiting to fight the dragon...
+[11846] Adventurer 0: got 3 fortunes until now.
+[11846] Adventurer 0: has: 0 stones,3 rings,7 necklaces,10 earrings
+[11946] Dragon:Game is finished.1
+[11946] Dragon: adventurer 0 won.
+[11946] Dragon: adventurer 0 won a stone
+[11946] Adventurer 0: got new Magical object
+[11946] Adventurer 0: is on his way to the shop.
+[12359] Adventurer 4: is waiting in the shop queue.
+[12420] Clerk 1: Served an adventurer.
+[12420] Adventurer 4: collected all the fortune required...
+[12420] Adventurer 4: is ready to go home.
+[13139] Adventurer 0: is waiting in the shop queue.
+[13222] Clerk 1: Served an adventurer.
+[13222] Adventurer 0: got a table to play with dragon.
+[13222] Adventurer 0: is waiting to fight the dragon...
+[13222] Adventurer 0: got 4 fortunes until now.
+[13222] Adventurer 0: has: 0 stones,2 rings,7 necklaces,10 earrings
+[13249] Dragon:Game is finished.1
+[13249] Dragon: adventurer 0 won.
+[13249] Dragon: adventurer 0 won an earing
+[13249] Adventurer 0: got a table to play with dragon.
+[13249] Adventurer 0: is waiting to fight the dragon...
+[13249] Adventurer 0: got 4 fortunes until now.
+[13249] Adventurer 0: has: 0 stones,2 rings,7 necklaces,11 earrings
+[13349] Dragon:Game is finished.1
+[13349] Dragon: adventurer 0 won.
+[13349] Dragon: adventurer 0 won a necklace
+[13450] Adventurer 0: got a table to play with dragon.
+[13450] Adventurer 0: is waiting to fight the dragon...
+[13450] Adventurer 0: got 4 fortunes until now.
+[13450] Adventurer 0: has: 0 stones,2 rings,8 necklaces,11 earrings
+[13550] Dragon:Game is finished.1
+[13550] Adventurer 0: got a table to play with dragon.
+[13550] Adventurer 0: is waiting to fight the dragon...
+[13550] Adventurer 0: got 4 fortunes until now.
+[13550] Adventurer 0: has: 0 stones,2 rings,8 necklaces,11 earrings
+[13650] Dragon:Game is finished.1
+[13650] Adventurer 0: got a table to play with dragon.
+[13650] Adventurer 0: is waiting to fight the dragon...
+[13650] Adventurer 0: got 4 fortunes until now.
+[13650] Adventurer 0: has: 0 stones,2 rings,8 necklaces,11 earrings
+[13750] Dragon:Game is finished.1
+[13851] Adventurer 0: got a table to play with dragon.
+[13851] Adventurer 0: is waiting to fight the dragon...
+[13851] Adventurer 0: got 4 fortunes until now.
+[13851] Adventurer 0: has: 0 stones,2 rings,8 necklaces,11 earrings
+[13951] Dragon:Game is finished.1
+[13951] Adventurer 0: got a table to play with dragon.
+[13951] Adventurer 0: is waiting to fight the dragon...
+[13951] Adventurer 0: got 4 fortunes until now.
+[13951] Adventurer 0: has: 0 stones,2 rings,8 necklaces,11 earrings
+[14051] Dragon:Game is finished.1
+[14051] Dragon: adventurer 0 won.
+[14051] Dragon: adventurer 0 won an earing
+[14051] Adventurer 0: got a table to play with dragon.
+[14052] Adventurer 0: is waiting to fight the dragon...
+[14052] Adventurer 0: got 4 fortunes until now.
+[14052] Adventurer 0: has: 0 stones,2 rings,8 necklaces,12 earrings
+[14152] Dragon:Game is finished.1
+[14152] Dragon: adventurer 0 won.
+[14152] Dragon: adventurer 0 won a stone
+[14152] Adventurer 0: got new Magical object
+[14152] Adventurer 0: is on his way to the shop.
+[15203] Adventurer 0: is waiting in the shop queue.
+[15224] Clerk 1: Served an adventurer.
+[15224] Adventurer 0: collected all the fortune required...
+[15224] Adventurer 0: is ready to go home.
+[15224] Adventurer 0: went back to his home.
+[15224] Adventurer 2: went back to his home.
+[15224] Adventurer 1: went back to his home.
+[15224] Adventurer 3: went back to his home.
+[15224] Adventurer 5: went back to his home.
+[15224] Adventurer 4: went back to his home.
